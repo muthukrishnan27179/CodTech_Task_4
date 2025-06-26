@@ -17,4 +17,4 @@ Spam – unwanted/promo Ham – safe/normal message The model is trained using a
 
 📄 Output 📊 Accuracy and Classification Report printed in terminal 📈 Confusion Matrix saved as confusion_matrix.png 📃 Detailed metrics saved in classification_report.txt
 
-✅ Completed By PREETHIVRAJ.M CodTech Internship – Task 4: Spam Classifier using ML
+✅ Completed By K.Muthukrishnan CodTech Internship – Task 4: Spam Classifier using ML
